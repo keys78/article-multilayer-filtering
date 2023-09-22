@@ -40,6 +40,5 @@ interface CheckboxFilterProps {
       </div>
     );
   }
-  
   export default CheckboxFilter;
   
